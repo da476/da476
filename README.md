@@ -6,6 +6,7 @@
 - VSCode
 - HTML, CSS, JavaScript
 - GitHub (obviously)
+- React, Vite
 
 ### 😄 Hobbies:
 - Reading epic fantasy novels
